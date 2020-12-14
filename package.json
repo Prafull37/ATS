@@ -1,0 +1,16 @@
+{
+  "name": "ats",
+  "version": "1.0.0",
+  "description": "\"ATS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Prafull Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0"
+  }
+}
